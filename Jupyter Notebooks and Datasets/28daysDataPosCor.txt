@@ -1,0 +1,549 @@
+Strong Positive Correlation Between
+-Page Engaged Users & Total Frequency Distribution - 6-10 :  0.9940695115407088
+-Page Engaged Users & Total Frequency Distribution - 11-20 :  0.9940695115407088
+-Page Engaged Users & Total Frequency Distribution - 21+ :  0.9923750748733099
+-Page Engaged Users & Page Posts Frequency Distribution - 6-10 :  0.9940695115407088
+-Page Engaged Users & Page Posts Frequency Distribution - 11-20 :  0.9940695115407088
+-Page Engaged Users & Page Posts Frequency Distribution - 21+ :  0.9923750748733099
+-Page Engaged Users & Demographics: People Talking About This - F.18-24 :  0.9906806382059109
+-Page Engaged Users & Demographics: People Talking About This - M.18-24 :  0.9963287604305741
+-Page Engaged Users & Country: People Talking About This - BD :  0.9966101694915255
+-Page Engaged Users & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9963287604305741
+-Page Engaged Users & Language: People Talking About This - en_GB :  0.9963287604305741
+-Page Engaged Users & Language: People Talking About This - en_US :  0.9966101694915255
+-Total Reach & Organic Reach :  1.0
+-Total Reach & Reach Of Page Posts :  1.0
+-Total Reach & Organic Reach of Page posts :  1.0
+-Organic Reach & Reach Of Page Posts :  1.0
+-Organic Reach & Organic Reach of Page posts :  1.0
+-Viral Reach & Viral impressions :  0.9963369963369964
+-Viral Reach & Viral Reach Of Page Posts :  1.0
+-Viral Reach & Viral Impressions Of Your Posts :  0.9963369963369964
+-Viral Reach & Total Frequency Distribution - 6-10 :  1.0
+-Viral Reach & Total Frequency Distribution - 11-20 :  0.9988706945228685
+-Viral Reach & Total Frequency Distribution - 21+ :  0.9966120835686053
+-Viral Reach & Page Posts Frequency Distribution - 6-10 :  1.0
+-Viral Reach & Page Posts Frequency Distribution - 11-20 :  0.9988706945228685
+-Viral Reach & Page Posts Frequency Distribution - 21+ :  0.9966120835686053
+-Viral Reach & Demographics: People Talking About This - F.18-24 :  0.9954827780914738
+-Viral Reach & Demographics: People Talking About This - M.18-24 :  0.9988706945228685
+-Viral Reach & Country: People Talking About This - BD :  0.9985880093204392
+-Viral Reach & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9977413890457368
+-Viral Reach & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Viral Reach & Language: People Talking About This - en_GB :  0.9977413890457368
+-Viral Reach & Language: People Talking About This - en_US :  0.9985880093204392
+-Total Impressions & Organic impressions :  0.996947496947497
+-Total Impressions & Total Impressions of your posts :  0.996947496947497
+-Total Impressions & Organic impressions of your posts :  0.996947496947497
+-Organic impressions & Total Impressions of your posts :  1.0
+-Organic impressions & Organic impressions of your posts :  1.0
+-Viral impressions & Viral Reach Of Page Posts :  0.9963369963369964
+-Viral impressions & Viral Impressions Of Your Posts :  1.0
+-Viral impressions & Total Frequency Distribution - 6-10 :  0.9988706945228685
+-Viral impressions & Total Frequency Distribution - 11-20 :  1.0
+-Viral impressions & Total Frequency Distribution - 21+ :  0.9988706945228685
+-Viral impressions & Page Posts Frequency Distribution - 6-10 :  0.9988706945228685
+-Viral impressions & Page Posts Frequency Distribution - 11-20 :  1.0
+-Viral impressions & Page Posts Frequency Distribution - 21+ :  0.9988706945228685
+-Viral impressions & Demographics: People Talking About This - F.18-24 :  0.9966120835686053
+-Viral impressions & Demographics: People Talking About This - M.18-24 :  0.9977413890457368
+-Viral impressions & Country: People Talking About This - BD :  0.9985880093204392
+-Viral impressions & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9988706945228685
+-Viral impressions & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Viral impressions & Language: People Talking About This - en_GB :  0.9988706945228685
+-Viral impressions & Language: People Talking About This - en_US :  0.9985880093204392
+-Reach Of Page Posts & Organic Reach of Page posts :  1.0
+-Viral Reach Of Page Posts & Viral Impressions Of Your Posts :  0.9963369963369964
+-Viral Reach Of Page Posts & Total Frequency Distribution - 6-10 :  1.0
+-Viral Reach Of Page Posts & Total Frequency Distribution - 11-20 :  0.9988706945228685
+-Viral Reach Of Page Posts & Total Frequency Distribution - 21+ :  0.9966120835686053
+-Viral Reach Of Page Posts & Page Posts Frequency Distribution - 6-10 :  1.0
+-Viral Reach Of Page Posts & Page Posts Frequency Distribution - 11-20 :  0.9988706945228685
+-Viral Reach Of Page Posts & Page Posts Frequency Distribution - 21+ :  0.9966120835686053
+-Viral Reach Of Page Posts & Demographics: People Talking About This - F.18-24 :  0.9954827780914738
+-Viral Reach Of Page Posts & Demographics: People Talking About This - M.18-24 :  0.9988706945228685
+-Viral Reach Of Page Posts & Country: People Talking About This - BD :  0.9985880093204392
+-Viral Reach Of Page Posts & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9977413890457368
+-Viral Reach Of Page Posts & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Viral Reach Of Page Posts & Language: People Talking About This - en_GB :  0.9977413890457368
+-Viral Reach Of Page Posts & Language: People Talking About This - en_US :  0.9985880093204392
+-Total Impressions of your posts & Organic impressions of your posts :  1.0
+-Viral Impressions Of Your Posts & Total Frequency Distribution - 6-10 :  0.9988706945228685
+-Viral Impressions Of Your Posts & Total Frequency Distribution - 11-20 :  1.0
+-Viral Impressions Of Your Posts & Total Frequency Distribution - 21+ :  0.9988706945228685
+-Viral Impressions Of Your Posts & Page Posts Frequency Distribution - 6-10 :  0.9988706945228685
+-Viral Impressions Of Your Posts & Page Posts Frequency Distribution - 11-20 :  1.0
+-Viral Impressions Of Your Posts & Page Posts Frequency Distribution - 21+ :  0.9988706945228685
+-Viral Impressions Of Your Posts & Demographics: People Talking About This - F.18-24 :  0.9966120835686053
+-Viral Impressions Of Your Posts & Demographics: People Talking About This - M.18-24 :  0.9977413890457368
+-Viral Impressions Of Your Posts & Country: People Talking About This - BD :  0.9985880093204392
+-Viral Impressions Of Your Posts & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9988706945228685
+-Viral Impressions Of Your Posts & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Viral Impressions Of Your Posts & Language: People Talking About This - en_GB :  0.9988706945228685
+-Viral Impressions Of Your Posts & Language: People Talking About This - en_US :  0.9985880093204392
+-Total Consumers & Demographics: People Talking About This - M.25-34 :  0.9932241671372106
+-Page Consumptions & Total Frequency Distribution - 6-10 :  0.9943534726143421
+-Page Consumptions & Total Frequency Distribution - 11-20 :  0.9966120835686053
+-Page Consumptions & Total Frequency Distribution - 21+ :  0.9977413890457368
+-Page Consumptions & Page Posts Frequency Distribution - 6-10 :  0.9943534726143421
+-Page Consumptions & Page Posts Frequency Distribution - 11-20 :  0.9966120835686053
+-Page Consumptions & Page Posts Frequency Distribution - 21+ :  0.9977413890457368
+-Page Consumptions & Demographics: People Talking About This - F.18-24 :  0.9932241671372106
+-Page Consumptions & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Page Consumptions & Country: People Talking About This - BD :  0.9968935726530403
+-Page Consumptions & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9977413890457368
+-Page Consumptions & Language: People Talking About This - en_GB :  0.9977413890457368
+-Page Consumptions & Language: People Talking About This - en_US :  0.9968935726530403
+-Negative Feedback & Negative Feedback From Users :  1.0
+-Negative Feedback & Negative feedback by type - hide_all_clicks :  1.0
+-Negative Feedback & Negative Feedback From Users - hide_all_clicks :  1.0
+-Negative Feedback From Users & Negative feedback by type - hide_all_clicks :  1.0
+-Negative Feedback From Users & Negative Feedback From Users - hide_all_clicks :  1.0
+-Total Organic Views & Total Organic 30-Second Views :  0.9974049879600311
+-Total Organic Views & Total Video Views :  1.0
+-Total Organic Views & Total Auto-Played Views :  1.0
+-Total Organic Views & Video Repeats :  0.9993894993894994
+-Total Organic Views & Total Unique Video Views :  1.0
+-Total Organic Views & Total 30-Second Views :  0.9974049879600311
+-Total Organic Views & Auto-Played 30-Second Views :  0.9980155817696179
+-Total Organic Views & Total Unique 30-Second Views :  0.9975579975579976
+-Total Organic Views & Total Frequency Distribution - 11-20 :  0.9954827780914738
+-Total Organic Views & Total Frequency Distribution - 21+ :  0.9943534726143421
+-Total Organic Views & Page Posts Frequency Distribution - 11-20 :  0.9954827780914738
+-Total Organic Views & Page Posts Frequency Distribution - 21+ :  0.9943534726143421
+-Total Organic Views & Demographics: People Talking About This - F.18-24 :  0.9920948616600791
+-Total Organic Views & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Total Organic Views & Country: People Talking About This - BD :  0.9946343237631751
+-Total Organic Views & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9932241671372106
+-Total Organic Views & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Total Organic Views & Language: People Talking About This - en_GB :  0.9932241671372106
+-Total Organic Views & Language: People Talking About This - en_US :  0.9946343237631751
+-Total Organic 30-Second Views & Total Video Views :  0.9974049879600311
+-Total Organic 30-Second Views & Total Auto-Played Views :  0.9974049879600311
+-Total Organic 30-Second Views & Video Repeats :  0.9958785034360641
+-Total Organic 30-Second Views & Total Unique Video Views :  0.9974049879600311
+-Total Organic 30-Second Views & Total 30-Second Views :  1.0
+-Total Organic 30-Second Views & Auto-Played 30-Second Views :  0.9993893129770992
+-Total Organic 30-Second Views & Total Unique 30-Second Views :  0.9943520189120971
+-Total Organic 30-Second Views & Total Frequency Distribution - 11-20 :  0.9954827780914738
+-Total Organic 30-Second Views & Total Frequency Distribution - 21+ :  0.9943534726143421
+-Total Organic 30-Second Views & Page Posts Frequency Distribution - 11-20 :  0.9954827780914738
+-Total Organic 30-Second Views & Page Posts Frequency Distribution - 21+ :  0.9943534726143421
+-Total Organic 30-Second Views & Demographics: People Talking About This - F.18-24 :  0.9920948616600791
+-Total Organic 30-Second Views & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Total Organic 30-Second Views & Country: People Talking About This - BD :  0.9946343237631751
+-Total Organic 30-Second Views & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9932241671372106
+-Total Organic 30-Second Views & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Total Organic 30-Second Views & Language: People Talking About This - en_GB :  0.9932241671372106
+-Total Organic 30-Second Views & Language: People Talking About This - en_US :  0.9946343237631751
+-Total Video Views & Total Auto-Played Views :  1.0
+-Total Video Views & Video Repeats :  0.9993894993894994
+-Total Video Views & Total Unique Video Views :  1.0
+-Total Video Views & Total 30-Second Views :  0.9974049879600311
+-Total Video Views & Auto-Played 30-Second Views :  0.9980155817696179
+-Total Video Views & Total Unique 30-Second Views :  0.9975579975579976
+-Total Video Views & Total Frequency Distribution - 11-20 :  0.9954827780914738
+-Total Video Views & Total Frequency Distribution - 21+ :  0.9943534726143421
+-Total Video Views & Page Posts Frequency Distribution - 11-20 :  0.9954827780914738
+-Total Video Views & Page Posts Frequency Distribution - 21+ :  0.9943534726143421
+-Total Video Views & Demographics: People Talking About This - F.18-24 :  0.9920948616600791
+-Total Video Views & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Total Video Views & Country: People Talking About This - BD :  0.9946343237631751
+-Total Video Views & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9932241671372106
+-Total Video Views & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Total Video Views & Language: People Talking About This - en_GB :  0.9932241671372106
+-Total Video Views & Language: People Talking About This - en_US :  0.9946343237631751
+-Total Auto-Played Views & Video Repeats :  0.9993894993894994
+-Total Auto-Played Views & Total Unique Video Views :  1.0
+-Total Auto-Played Views & Total 30-Second Views :  0.9974049879600311
+-Total Auto-Played Views & Auto-Played 30-Second Views :  0.9980155817696179
+-Total Auto-Played Views & Total Unique 30-Second Views :  0.9975579975579976
+-Total Auto-Played Views & Total Frequency Distribution - 11-20 :  0.9954827780914738
+-Total Auto-Played Views & Total Frequency Distribution - 21+ :  0.9943534726143421
+-Total Auto-Played Views & Page Posts Frequency Distribution - 11-20 :  0.9954827780914738
+-Total Auto-Played Views & Page Posts Frequency Distribution - 21+ :  0.9943534726143421
+-Total Auto-Played Views & Demographics: People Talking About This - F.18-24 :  0.9920948616600791
+-Total Auto-Played Views & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Total Auto-Played Views & Country: People Talking About This - BD :  0.9946343237631751
+-Total Auto-Played Views & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9932241671372106
+-Total Auto-Played Views & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Total Auto-Played Views & Language: People Talking About This - en_GB :  0.9932241671372106
+-Total Auto-Played Views & Language: People Talking About This - en_US :  0.9946343237631751
+-Total Clicked Views & Country: People Talking About This - BD :  0.9906806382059109
+-Total Clicked Views & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9909655561829475
+-Total Clicked Views & Language: People Talking About This - en_GB :  0.9909655561829475
+-Total Clicked Views & Language: People Talking About This - en_US :  0.9906806382059109
+-Video Repeats & Total Unique Video Views :  0.9993894993894994
+-Video Repeats & Total 30-Second Views :  0.9958785034360641
+-Video Repeats & Auto-Played 30-Second Views :  0.9970996910552377
+-Video Repeats & Total Unique 30-Second Views :  0.9981684981684982
+-Video Repeats & Total Frequency Distribution - 11-20 :  0.9954827780914738
+-Video Repeats & Total Frequency Distribution - 21+ :  0.9943534726143421
+-Video Repeats & Page Posts Frequency Distribution - 11-20 :  0.9954827780914738
+-Video Repeats & Page Posts Frequency Distribution - 21+ :  0.9943534726143421
+-Video Repeats & Demographics: People Talking About This - F.18-24 :  0.9920948616600791
+-Video Repeats & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Video Repeats & Country: People Talking About This - BD :  0.9946343237631751
+-Video Repeats & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9932241671372106
+-Video Repeats & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Video Repeats & Language: People Talking About This - en_GB :  0.9932241671372106
+-Video Repeats & Language: People Talking About This - en_US :  0.9946343237631751
+-Total Unique Video Views & Total 30-Second Views :  0.9974049879600311
+-Total Unique Video Views & Auto-Played 30-Second Views :  0.9980155817696179
+-Total Unique Video Views & Total Unique 30-Second Views :  0.9975579975579976
+-Total Unique Video Views & Total Frequency Distribution - 11-20 :  0.9954827780914738
+-Total Unique Video Views & Total Frequency Distribution - 21+ :  0.9943534726143421
+-Total Unique Video Views & Page Posts Frequency Distribution - 11-20 :  0.9954827780914738
+-Total Unique Video Views & Page Posts Frequency Distribution - 21+ :  0.9943534726143421
+-Total Unique Video Views & Demographics: People Talking About This - F.18-24 :  0.9920948616600791
+-Total Unique Video Views & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Total Unique Video Views & Country: People Talking About This - BD :  0.9946343237631751
+-Total Unique Video Views & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9932241671372106
+-Total Unique Video Views & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Total Unique Video Views & Language: People Talking About This - en_GB :  0.9932241671372106
+-Total Unique Video Views & Language: People Talking About This - en_US :  0.9946343237631751
+-Total 30-Second Views & Auto-Played 30-Second Views :  0.9993893129770992
+-Total 30-Second Views & Total Unique 30-Second Views :  0.9943520189120971
+-Total 30-Second Views & Total Frequency Distribution - 11-20 :  0.9954827780914738
+-Total 30-Second Views & Total Frequency Distribution - 21+ :  0.9943534726143421
+-Total 30-Second Views & Page Posts Frequency Distribution - 11-20 :  0.9954827780914738
+-Total 30-Second Views & Page Posts Frequency Distribution - 21+ :  0.9943534726143421
+-Total 30-Second Views & Demographics: People Talking About This - F.18-24 :  0.9920948616600791
+-Total 30-Second Views & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Total 30-Second Views & Country: People Talking About This - BD :  0.9946343237631751
+-Total 30-Second Views & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9932241671372106
+-Total 30-Second Views & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Total 30-Second Views & Language: People Talking About This - en_GB :  0.9932241671372106
+-Total 30-Second Views & Language: People Talking About This - en_US :  0.9946343237631751
+-Auto-Played 30-Second Views & Total Unique 30-Second Views :  0.9961838003408575
+-Auto-Played 30-Second Views & Total Frequency Distribution - 11-20 :  0.9954827780914738
+-Auto-Played 30-Second Views & Total Frequency Distribution - 21+ :  0.9943534726143421
+-Auto-Played 30-Second Views & Page Posts Frequency Distribution - 11-20 :  0.9954827780914738
+-Auto-Played 30-Second Views & Page Posts Frequency Distribution - 21+ :  0.9943534726143421
+-Auto-Played 30-Second Views & Demographics: People Talking About This - F.18-24 :  0.9920948616600791
+-Auto-Played 30-Second Views & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Auto-Played 30-Second Views & Country: People Talking About This - BD :  0.9946343237631751
+-Auto-Played 30-Second Views & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9932241671372106
+-Auto-Played 30-Second Views & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Auto-Played 30-Second Views & Language: People Talking About This - en_GB :  0.9932241671372106
+-Auto-Played 30-Second Views & Language: People Talking About This - en_US :  0.9946343237631751
+-Total Unique 30-Second Views & Total Frequency Distribution - 11-20 :  0.9954827780914738
+-Total Unique 30-Second Views & Total Frequency Distribution - 21+ :  0.9943534726143421
+-Total Unique 30-Second Views & Page Posts Frequency Distribution - 11-20 :  0.9954827780914738
+-Total Unique 30-Second Views & Page Posts Frequency Distribution - 21+ :  0.9943534726143421
+-Total Unique 30-Second Views & Demographics: People Talking About This - F.18-24 :  0.9920948616600791
+-Total Unique 30-Second Views & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Total Unique 30-Second Views & Country: People Talking About This - BD :  0.9946343237631751
+-Total Unique 30-Second Views & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9932241671372106
+-Total Unique 30-Second Views & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Total Unique 30-Second Views & Language: People Talking About This - en_GB :  0.9932241671372106
+-Total Unique 30-Second Views & Language: People Talking About This - en_US :  0.9946343237631751
+-Total Frequency Distribution - 1 & Page Posts Frequency Distribution - 1 :  1.0
+-Total Frequency Distribution - 2 & Page Posts Frequency Distribution - 2 :  1.0
+-Total Frequency Distribution - 3 & Page Posts Frequency Distribution - 3 :  0.9974583848755066
+-Total Frequency Distribution - 4 & Page Posts Frequency Distribution - 4 :  0.9988706945228685
+-Total Frequency Distribution - 5 & Page Posts Frequency Distribution - 5 :  0.9985880093204392
+-Total Frequency Distribution - 6-10 & Total Frequency Distribution - 11-20 :  0.9988706945228685
+-Total Frequency Distribution - 6-10 & Total Frequency Distribution - 21+ :  0.9966120835686053
+-Total Frequency Distribution - 6-10 & Page Posts Frequency Distribution - 6-10 :  1.0
+-Total Frequency Distribution - 6-10 & Page Posts Frequency Distribution - 11-20 :  0.9988706945228685
+-Total Frequency Distribution - 6-10 & Page Posts Frequency Distribution - 21+ :  0.9966120835686053
+-Total Frequency Distribution - 6-10 & Talking About This By Story Type - fan :  0.9977413890457368
+-Total Frequency Distribution - 6-10 & Talking About This By Story Type - other :  0.9974583848755066
+-Total Frequency Distribution - 6-10 & Page Stories By Story Type - fan :  0.9977413890457368
+-Total Frequency Distribution - 6-10 & Page Stories By Story Type - other :  0.9954827780914738
+-Total Frequency Distribution - 6-10 & Page Consumptions By Type - other clicks :  0.9966120835686053
+-Total Frequency Distribution - 6-10 & Page Consumptions By Type - video play :  0.9932204974976183
+-Total Frequency Distribution - 6-10 & Demographics: People Talking About This - F.18-24 :  0.9954827780914738
+-Total Frequency Distribution - 6-10 & Demographics: People Talking About This - M.18-24 :  0.9988706945228685
+-Total Frequency Distribution - 6-10 & Country: People Talking About This - BD :  0.9985880093204392
+-Total Frequency Distribution - 6-10 & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9977413890457368
+-Total Frequency Distribution - 6-10 & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Total Frequency Distribution - 6-10 & Language: People Talking About This - en_GB :  0.9977413890457368
+-Total Frequency Distribution - 6-10 & Language: People Talking About This - en_US :  0.9985880093204392
+-Total Frequency Distribution - 6-10 & Positive Feedback From Users - comment :  0.9957575473341116
+-Total Frequency Distribution - 6-10 & Positive Feedback From Users - like :  0.9966120835686053
+-Total Frequency Distribution - 6-10 & Positive Feedback From Users - other :  0.9977413890457368
+-Total Frequency Distribution - 6-10 & Positive Feedback From Users - comment.1 :  0.998304604601524
+-Total Frequency Distribution - 6-10 & Positive Feedback From Users - like.1 :  0.9954827780914738
+-Total Frequency Distribution - 6-10 & Positive Feedback From Users - other.1 :  0.9985880093204392
+-Total Frequency Distribution - 11-20 & Total Frequency Distribution - 21+ :  0.9988706945228685
+-Total Frequency Distribution - 11-20 & Page Posts Frequency Distribution - 6-10 :  0.9988706945228685
+-Total Frequency Distribution - 11-20 & Page Posts Frequency Distribution - 11-20 :  1.0
+-Total Frequency Distribution - 11-20 & Page Posts Frequency Distribution - 21+ :  0.9988706945228685
+-Total Frequency Distribution - 11-20 & Talking About This By Story Type - fan :  0.9954827780914738
+-Total Frequency Distribution - 11-20 & Talking About This By Story Type - other :  0.9985880093204392
+-Total Frequency Distribution - 11-20 & Page Stories By Story Type - fan :  0.9954827780914738
+-Total Frequency Distribution - 11-20 & Page Stories By Story Type - other :  0.9977413890457368
+-Total Frequency Distribution - 11-20 & Page Consumptions By Type - other clicks :  0.9977413890457368
+-Total Frequency Distribution - 11-20 & Page Consumptions By Type - video play :  0.9949154130223582
+-Total Frequency Distribution - 11-20 & Demographics: People Talking About This - F.18-24 :  0.9966120835686053
+-Total Frequency Distribution - 11-20 & Demographics: People Talking About This - M.18-24 :  0.9977413890457368
+-Total Frequency Distribution - 11-20 & Country: People Talking About This - BD :  0.9985880093204392
+-Total Frequency Distribution - 11-20 & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9988706945228685
+-Total Frequency Distribution - 11-20 & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Total Frequency Distribution - 11-20 & Language: People Talking About This - en_GB :  0.9988706945228685
+-Total Frequency Distribution - 11-20 & Language: People Talking About This - en_US :  0.9985880093204392
+-Total Frequency Distribution - 11-20 & Positive Feedback From Users - comment :  0.9957575473341116
+-Total Frequency Distribution - 11-20 & Positive Feedback From Users - like :  0.9977413890457368
+-Total Frequency Distribution - 11-20 & Positive Feedback From Users - other :  0.9954827780914738
+-Total Frequency Distribution - 11-20 & Positive Feedback From Users - comment.1 :  0.998304604601524
+-Total Frequency Distribution - 11-20 & Positive Feedback From Users - like.1 :  0.9977413890457368
+-Total Frequency Distribution - 11-20 & Positive Feedback From Users - other.1 :  0.9963287604305741
+-Total Frequency Distribution - 21+ & Page Posts Frequency Distribution - 6-10 :  0.9966120835686053
+-Total Frequency Distribution - 21+ & Page Posts Frequency Distribution - 11-20 :  0.9988706945228685
+-Total Frequency Distribution - 21+ & Page Posts Frequency Distribution - 21+ :  1.0
+-Total Frequency Distribution - 21+ & Talking About This By Story Type - fan :  0.9943534726143421
+-Total Frequency Distribution - 21+ & Talking About This By Story Type - other :  0.9974583848755066
+-Total Frequency Distribution - 21+ & Page Stories By Story Type - fan :  0.9943534726143421
+-Total Frequency Distribution - 21+ & Page Stories By Story Type - other :  0.9988706945228685
+-Total Frequency Distribution - 21+ & Page Consumptions By Type - other clicks :  0.9966120835686053
+-Total Frequency Distribution - 21+ & Page Consumptions By Type - video play :  0.9966103285470982
+-Total Frequency Distribution - 21+ & Demographics: People Talking About This - F.18-24 :  0.9954827780914738
+-Total Frequency Distribution - 21+ & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Total Frequency Distribution - 21+ & Country: People Talking About This - BD :  0.9968935726530403
+-Total Frequency Distribution - 21+ & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9977413890457368
+-Total Frequency Distribution - 21+ & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Total Frequency Distribution - 21+ & Language: People Talking About This - en_GB :  0.9977413890457368
+-Total Frequency Distribution - 21+ & Language: People Talking About This - en_US :  0.9968935726530403
+-Total Frequency Distribution - 21+ & Positive Feedback From Users - comment :  0.9957575473341116
+-Total Frequency Distribution - 21+ & Positive Feedback From Users - like :  0.9966120835686053
+-Total Frequency Distribution - 21+ & Positive Feedback From Users - other :  0.9943534726143421
+-Total Frequency Distribution - 21+ & Positive Feedback From Users - comment.1 :  0.998304604601524
+-Total Frequency Distribution - 21+ & Positive Feedback From Users - like.1 :  0.9988706945228685
+-Total Frequency Distribution - 21+ & Positive Feedback From Users - other.1 :  0.9951991359856414
+-Page Posts Frequency Distribution - 6-10 & Page Posts Frequency Distribution - 11-20 :  0.9988706945228685
+-Page Posts Frequency Distribution - 6-10 & Page Posts Frequency Distribution - 21+ :  0.9966120835686053
+-Page Posts Frequency Distribution - 6-10 & Talking About This By Story Type - fan :  0.9977413890457368
+-Page Posts Frequency Distribution - 6-10 & Talking About This By Story Type - other :  0.9974583848755066
+-Page Posts Frequency Distribution - 6-10 & Page Stories By Story Type - fan :  0.9977413890457368
+-Page Posts Frequency Distribution - 6-10 & Page Stories By Story Type - other :  0.9954827780914738
+-Page Posts Frequency Distribution - 6-10 & Page Consumptions By Type - other clicks :  0.9966120835686053
+-Page Posts Frequency Distribution - 6-10 & Page Consumptions By Type - video play :  0.9932204974976183
+-Page Posts Frequency Distribution - 6-10 & Demographics: People Talking About This - F.18-24 :  0.9954827780914738
+-Page Posts Frequency Distribution - 6-10 & Demographics: People Talking About This - M.18-24 :  0.9988706945228685
+-Page Posts Frequency Distribution - 6-10 & Country: People Talking About This - BD :  0.9985880093204392
+-Page Posts Frequency Distribution - 6-10 & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9977413890457368
+-Page Posts Frequency Distribution - 6-10 & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Page Posts Frequency Distribution - 6-10 & Language: People Talking About This - en_GB :  0.9977413890457368
+-Page Posts Frequency Distribution - 6-10 & Language: People Talking About This - en_US :  0.9985880093204392
+-Page Posts Frequency Distribution - 6-10 & Positive Feedback From Users - comment :  0.9957575473341116
+-Page Posts Frequency Distribution - 6-10 & Positive Feedback From Users - like :  0.9966120835686053
+-Page Posts Frequency Distribution - 6-10 & Positive Feedback From Users - other :  0.9977413890457368
+-Page Posts Frequency Distribution - 6-10 & Positive Feedback From Users - comment.1 :  0.998304604601524
+-Page Posts Frequency Distribution - 6-10 & Positive Feedback From Users - like.1 :  0.9954827780914738
+-Page Posts Frequency Distribution - 6-10 & Positive Feedback From Users - other.1 :  0.9985880093204392
+-Page Posts Frequency Distribution - 11-20 & Page Posts Frequency Distribution - 21+ :  0.9988706945228685
+-Page Posts Frequency Distribution - 11-20 & Talking About This By Story Type - fan :  0.9954827780914738
+-Page Posts Frequency Distribution - 11-20 & Talking About This By Story Type - other :  0.9985880093204392
+-Page Posts Frequency Distribution - 11-20 & Page Stories By Story Type - fan :  0.9954827780914738
+-Page Posts Frequency Distribution - 11-20 & Page Stories By Story Type - other :  0.9977413890457368
+-Page Posts Frequency Distribution - 11-20 & Page Consumptions By Type - other clicks :  0.9977413890457368
+-Page Posts Frequency Distribution - 11-20 & Page Consumptions By Type - video play :  0.9949154130223582
+-Page Posts Frequency Distribution - 11-20 & Demographics: People Talking About This - F.18-24 :  0.9966120835686053
+-Page Posts Frequency Distribution - 11-20 & Demographics: People Talking About This - M.18-24 :  0.9977413890457368
+-Page Posts Frequency Distribution - 11-20 & Country: People Talking About This - BD :  0.9985880093204392
+-Page Posts Frequency Distribution - 11-20 & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9988706945228685
+-Page Posts Frequency Distribution - 11-20 & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Page Posts Frequency Distribution - 11-20 & Language: People Talking About This - en_GB :  0.9988706945228685
+-Page Posts Frequency Distribution - 11-20 & Language: People Talking About This - en_US :  0.9985880093204392
+-Page Posts Frequency Distribution - 11-20 & Positive Feedback From Users - comment :  0.9957575473341116
+-Page Posts Frequency Distribution - 11-20 & Positive Feedback From Users - like :  0.9977413890457368
+-Page Posts Frequency Distribution - 11-20 & Positive Feedback From Users - other :  0.9954827780914738
+-Page Posts Frequency Distribution - 11-20 & Positive Feedback From Users - comment.1 :  0.998304604601524
+-Page Posts Frequency Distribution - 11-20 & Positive Feedback From Users - like.1 :  0.9977413890457368
+-Page Posts Frequency Distribution - 11-20 & Positive Feedback From Users - other.1 :  0.9963287604305741
+-Page Posts Frequency Distribution - 21+ & Talking About This By Story Type - fan :  0.9943534726143421
+-Page Posts Frequency Distribution - 21+ & Talking About This By Story Type - other :  0.9974583848755066
+-Page Posts Frequency Distribution - 21+ & Page Stories By Story Type - fan :  0.9943534726143421
+-Page Posts Frequency Distribution - 21+ & Page Stories By Story Type - other :  0.9988706945228685
+-Page Posts Frequency Distribution - 21+ & Page Consumptions By Type - other clicks :  0.9966120835686053
+-Page Posts Frequency Distribution - 21+ & Page Consumptions By Type - video play :  0.9966103285470982
+-Page Posts Frequency Distribution - 21+ & Demographics: People Talking About This - F.18-24 :  0.9954827780914738
+-Page Posts Frequency Distribution - 21+ & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Page Posts Frequency Distribution - 21+ & Country: People Talking About This - BD :  0.9968935726530403
+-Page Posts Frequency Distribution - 21+ & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9977413890457368
+-Page Posts Frequency Distribution - 21+ & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Page Posts Frequency Distribution - 21+ & Language: People Talking About This - en_GB :  0.9977413890457368
+-Page Posts Frequency Distribution - 21+ & Language: People Talking About This - en_US :  0.9968935726530403
+-Page Posts Frequency Distribution - 21+ & Positive Feedback From Users - comment :  0.9957575473341116
+-Page Posts Frequency Distribution - 21+ & Positive Feedback From Users - like :  0.9966120835686053
+-Page Posts Frequency Distribution - 21+ & Positive Feedback From Users - other :  0.9943534726143421
+-Page Posts Frequency Distribution - 21+ & Positive Feedback From Users - comment.1 :  0.998304604601524
+-Page Posts Frequency Distribution - 21+ & Positive Feedback From Users - like.1 :  0.9988706945228685
+-Page Posts Frequency Distribution - 21+ & Positive Feedback From Users - other.1 :  0.9951991359856414
+-Talking About This By Story Type - fan & Page Stories By Story Type - fan :  1.0
+-Talking About This By Story Type - fan & Demographics: People Talking About This - F.18-24 :  0.9920948616600791
+-Talking About This By Story Type - fan & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Talking About This By Story Type - fan & Country: People Talking About This - BD :  0.9946343237631751
+-Talking About This By Story Type - fan & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9932241671372106
+-Talking About This By Story Type - fan & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Talking About This By Story Type - fan & Language: People Talking About This - en_GB :  0.9932241671372106
+-Talking About This By Story Type - fan & Language: People Talking About This - en_US :  0.9946343237631751
+-Talking About This By Story Type - fan & Positive Feedback From Users - other :  0.9993889864563732
+-Talking About This By Story Type - fan & Positive Feedback From Users - other.1 :  0.9957226251486764
+-Talking About This By Story Type - other & Page Consumptions By Type - other clicks :  0.9986258491653115
+-Talking About This By Story Type - other & Demographics: People Talking About This - F.18-24 :  0.9951991359856414
+-Talking About This By Story Type - other & Demographics: People Talking About This - M.18-24 :  0.9985880093204392
+-Talking About This By Story Type - other & Country: People Talking About This - BD :  0.9994350282485875
+-Talking About This By Story Type - other & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9997176337653719
+-Talking About This By Story Type - other & Language: People Talking About This - en_GB :  0.9997176337653719
+-Talking About This By Story Type - other & Language: People Talking About This - en_US :  0.9994350282485875
+-Talking About This By Story Type - other & Positive Feedback From Users - like :  0.9996946098569799
+-Talking About This By Story Type - page post & Positive Feedback From Users - link :  0.9936797732866979
+-Page Stories By Story Type - fan & Demographics: People Talking About This - F.18-24 :  0.9920948616600791
+-Page Stories By Story Type - fan & Demographics: People Talking About This - M.18-24 :  0.9954827780914738
+-Page Stories By Story Type - fan & Country: People Talking About This - BD :  0.9946343237631751
+-Page Stories By Story Type - fan & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9932241671372106
+-Page Stories By Story Type - fan & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  0.9900692673496121
+-Page Stories By Story Type - fan & Language: People Talking About This - en_GB :  0.9932241671372106
+-Page Stories By Story Type - fan & Language: People Talking About This - en_US :  0.9946343237631751
+-Page Stories By Story Type - fan & Positive Feedback From Users - other :  0.9993889864563732
+-Page Stories By Story Type - fan & Positive Feedback From Users - other.1 :  0.9957226251486764
+-Page Stories By Story Type - other & Demographics: People Talking About This - F.18-24 :  0.9977413890457368
+-Page Stories By Story Type - other & Demographics: People Talking About This - M.18-24 :  0.9943534726143421
+-Page Stories By Story Type - other & Country: People Talking About This - BD :  0.9957639482081078
+-Page Stories By Story Type - other & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9966120835686053
+-Page Stories By Story Type - other & Language: People Talking About This - en_GB :  0.9966120835686053
+-Page Stories By Story Type - other & Language: People Talking About This - en_US :  0.9957639482081078
+-Page Stories By Story Type - other & Positive Feedback From Users - like.1 :  0.9963369963369964
+-Page Consumptions By Type - other clicks & Demographics: People Talking About This - F.18-24 :  0.9943534726143421
+-Page Consumptions By Type - other clicks & Demographics: People Talking About This - M.18-24 :  0.9977413890457368
+-Page Consumptions By Type - other clicks & Country: People Talking About This - BD :  0.9985880093204392
+-Page Consumptions By Type - other clicks & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9988706945228685
+-Page Consumptions By Type - other clicks & Language: People Talking About This - en_GB :  0.9988706945228685
+-Page Consumptions By Type - other clicks & Language: People Talking About This - en_US :  0.9985880093204392
+-Page Consumptions By Type - other clicks & Positive Feedback From Users - like :  0.9983208786744113
+-Page Consumptions By Type - other clicks & Positive Feedback From Users - like.1 :  0.9932844932844933
+-Page Consumptions By Type - video play & Demographics: People Talking About This - F.18-24 :  0.9915255819728783
+-Page Consumptions By Type - video play & Demographics: People Talking About This - M.18-24 :  0.9949154130223582
+-Page Consumptions By Type - video play & Country: People Talking About This - BD :  0.9960441200124196
+-Page Consumptions By Type - video play & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9966103285470982
+-Page Consumptions By Type - video play & Language: People Talking About This - en_GB :  0.9966103285470982
+-Page Consumptions By Type - video play & Language: People Talking About This - en_US :  0.9960441200124196
+-Demographics: People Talking About This - F.13-17 & City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh :  1.0
+-Demographics: People Talking About This - F.13-17 & City: People Talking About This - Melbourne, VIC, Australia :  1.0
+-Demographics: People Talking About This - F.13-17 & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-Demographics: People Talking About This - F.13-17 & City: People Talking About This - Satkhira, Khulna Division, Bangladesh :  1.0
+-Demographics: People Talking About This - F.18-24 & Demographics: People Talking About This - M.18-24 :  0.9943534726143421
+-Demographics: People Talking About This - F.18-24 & Country: People Talking About This - BD :  0.9951991359856414
+-Demographics: People Talking About This - F.18-24 & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9954827780914738
+-Demographics: People Talking About This - F.18-24 & Language: People Talking About This - en_GB :  0.9954827780914738
+-Demographics: People Talking About This - F.18-24 & Language: People Talking About This - en_US :  0.9951991359856414
+-Demographics: People Talking About This - F.18-24 & Positive Feedback From Users - comment :  0.992360989469413
+-Demographics: People Talking About This - F.18-24 & Positive Feedback From Users - like :  0.9943534726143421
+-Demographics: People Talking About This - F.18-24 & Positive Feedback From Users - other :  0.9920948616600791
+-Demographics: People Talking About This - F.18-24 & Positive Feedback From Users - comment.1 :  0.9949109345575529
+-Demographics: People Talking About This - F.18-24 & Positive Feedback From Users - like.1 :  0.9977413890457368
+-Demographics: People Talking About This - F.18-24 & Positive Feedback From Users - other.1 :  0.9929398870957762
+-Demographics: People Talking About This - F.45-54 & City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh :  1.0
+-Demographics: People Talking About This - F.45-54 & City: People Talking About This - Melbourne, VIC, Australia :  1.0
+-Demographics: People Talking About This - F.45-54 & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-Demographics: People Talking About This - M.18-24 & Country: People Talking About This - BD :  0.9997176337653719
+-Demographics: People Talking About This - M.18-24 & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9988706945228685
+-Demographics: People Talking About This - M.18-24 & Language: People Talking About This - en_GB :  0.9988706945228685
+-Demographics: People Talking About This - M.18-24 & Language: People Talking About This - en_US :  0.9997176337653719
+-Demographics: People Talking About This - M.18-24 & Positive Feedback From Users - comment :  0.9974558262664608
+-Demographics: People Talking About This - M.18-24 & Positive Feedback From Users - like :  0.9977413890457368
+-Demographics: People Talking About This - M.18-24 & Positive Feedback From Users - other :  0.9954827780914738
+-Demographics: People Talking About This - M.18-24 & Positive Feedback From Users - comment.1 :  0.998304604601524
+-Demographics: People Talking About This - M.18-24 & Positive Feedback From Users - like.1 :  0.9943534726143421
+-Demographics: People Talking About This - M.18-24 & Positive Feedback From Users - other.1 :  0.9968935726530403
+-Demographics: People Talking About This - M.55-64 & Country: People Talking About This - JP :  1.0
+-Demographics: People Talking About This - M.55-64 & City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh :  1.0
+-Demographics: People Talking About This - M.55-64 & City: People Talking About This - Magdeburg, Germany :  1.0
+-Demographics: People Talking About This - M.55-64 & City: People Talking About This - Melbourne, VIC, Australia :  1.0
+-Demographics: People Talking About This - M.55-64 & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-Demographics: People Talking About This - M.55-64 & City: People Talking About This - Sydney, NSW, Australia :  1.0
+-Country: People Talking About This - AU & City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh :  1.0
+-Country: People Talking About This - AU & City: People Talking About This - Melbourne, VIC, Australia :  1.0
+-Country: People Talking About This - AU & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-Country: People Talking About This - BD & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  0.9997176337653719
+-Country: People Talking About This - BD & Language: People Talking About This - en_GB :  0.9997176337653719
+-Country: People Talking About This - BD & Language: People Talking About This - en_US :  1.0
+-Country: People Talking About This - BD & Positive Feedback From Users - comment :  0.9977375536626355
+-Country: People Talking About This - BD & Positive Feedback From Users - like :  0.9985880093204392
+-Country: People Talking About This - BD & Positive Feedback From Users - other :  0.9946343237631751
+-Country: People Talking About This - BD & Positive Feedback From Users - comment.1 :  0.9985865717317342
+-Country: People Talking About This - BD & Positive Feedback From Users - like.1 :  0.9957639482081078
+-Country: People Talking About This - BD & Positive Feedback From Users - other.1 :  0.996045197740113
+-Country: People Talking About This - DE & City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh :  1.0
+-Country: People Talking About This - DE & City: People Talking About This - Melbourne, VIC, Australia :  1.0
+-Country: People Talking About This - DE & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-Country: People Talking About This - JP & City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh :  1.0
+-Country: People Talking About This - JP & City: People Talking About This - Magdeburg, Germany :  1.0
+-Country: People Talking About This - JP & City: People Talking About This - Melbourne, VIC, Australia :  1.0
+-Country: People Talking About This - JP & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-Country: People Talking About This - MY & City: People Talking About This - Chandpur, Chittagong Division, Bangladesh :  1.0
+-Country: People Talking About This - MY & City: People Talking About This - Jaipur Hat, Rajshahi Division, Bangladesh :  1.0
+-Country: People Talking About This - MY & City: People Talking About This - Thakurgaon, Rangpur Division, Bangladesh :  1.0
+-Country: People Talking About This - SA & City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh :  1.0
+-Country: People Talking About This - SA & City: People Talking About This - Melbourne, VIC, Australia :  1.0
+-Country: People Talking About This - SA & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-Country: People Talking About This - US & City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh :  1.0
+-Country: People Talking About This - US & City: People Talking About This - Melbourne, VIC, Australia :  1.0
+-Country: People Talking About This - US & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-City: People Talking About This - Bandarban, Chittagong Division, Bangladesh & City: People Talking About This - Magdeburg, Germany :  1.0
+-City: People Talking About This - Barisal, Barisal Division, Bangladesh & City: People Talking About This - Sirajganj, Rajshahi Division, Bangladesh :  1.0
+-City: People Talking About This - Brahmanbaria, Chittagong Division, Bangladesh & City: People Talking About This - Melbourne, VIC, Australia :  1.0
+-City: People Talking About This - Chandpur, Chittagong Division, Bangladesh & City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh :  1.0
+-City: People Talking About This - Chandpur, Chittagong Division, Bangladesh & City: People Talking About This - Melbourne, VIC, Australia :  1.0
+-City: People Talking About This - Chandpur, Chittagong Division, Bangladesh & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-City: People Talking About This - Chiringa, Chittagong Division, Bangladesh & City: People Talking About This - Saidpur, Rajshahi Division, Bangladesh :  0.9921567416492214
+-City: People Talking About This - Dhaka, Dhaka Division, Bangladesh & Language: People Talking About This - en_GB :  1.0
+-City: People Talking About This - Dhaka, Dhaka Division, Bangladesh & Language: People Talking About This - en_US :  0.9997176337653719
+-City: People Talking About This - Dhaka, Dhaka Division, Bangladesh & Positive Feedback From Users - comment :  0.9974558262664608
+-City: People Talking About This - Dhaka, Dhaka Division, Bangladesh & Positive Feedback From Users - like :  0.9988706945228685
+-City: People Talking About This - Dhaka, Dhaka Division, Bangladesh & Positive Feedback From Users - other :  0.9932241671372106
+-City: People Talking About This - Dhaka, Dhaka Division, Bangladesh & Positive Feedback From Users - comment.1 :  0.998304604601524
+-City: People Talking About This - Dhaka, Dhaka Division, Bangladesh & Positive Feedback From Users - like.1 :  0.9966120835686053
+-City: People Talking About This - Dhaka, Dhaka Division, Bangladesh & Positive Feedback From Users - other.1 :  0.9946343237631751
+-City: People Talking About This - Dinajpur, Rangpur Division, Bangladesh & City: People Talking About This - Satkhira, Khulna Division, Bangladesh :  1.0
+-City: People Talking About This - Dinajpur, Rangpur Division, Bangladesh & City: People Talking About This - Sirajganj, Rajshahi Division, Bangladesh :  0.9956426807977282
+-City: People Talking About This - Faridpur, Dhaka Division, Bangladesh & City: People Talking About This - Satkhira, Khulna Division, Bangladesh :  1.0
+-City: People Talking About This - Jaipur Hat, Rajshahi Division, Bangladesh & City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh :  1.0
+-City: People Talking About This - Jaipur Hat, Rajshahi Division, Bangladesh & City: People Talking About This - Melbourne, VIC, Australia :  1.0
+-City: People Talking About This - Jaipur Hat, Rajshahi Division, Bangladesh & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh & City: People Talking About This - Jessore, Khulna Division, Bangladesh :  1.0
+-City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  1.0
+-City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh & City: People Talking About This - Sydney, NSW, Australia :  1.0
+-City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh & City: People Talking About This - Tangail, Dhaka Division, Bangladesh :  1.0
+-City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh & City: People Talking About This - Thakurgaon, Rangpur Division, Bangladesh :  1.0
+-City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh & Language: People Talking About This - bn_IN :  1.0
+-City: People Talking About This - Jessore, Khulna Division, Bangladesh & City: People Talking About This - Melbourne, VIC, Australia :  1.0
+-City: People Talking About This - Jessore, Khulna Division, Bangladesh & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-City: People Talking About This - Magdeburg, Germany & City: People Talking About This - Sydney, NSW, Australia :  1.0
+-City: People Talking About This - Melbourne, VIC, Australia & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  1.0
+-City: People Talking About This - Melbourne, VIC, Australia & City: People Talking About This - Sydney, NSW, Australia :  1.0
+-City: People Talking About This - Melbourne, VIC, Australia & City: People Talking About This - Tangail, Dhaka Division, Bangladesh :  1.0
+-City: People Talking About This - Melbourne, VIC, Australia & City: People Talking About This - Thakurgaon, Rangpur Division, Bangladesh :  1.0
+-City: People Talking About This - Melbourne, VIC, Australia & Language: People Talking About This - bn_IN :  1.0
+-City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  1.0
+-City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh & Positive Feedback From Users - other :  0.9900692673496121
+-City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh & Positive Feedback From Users - comment.1 :  0.9906081069793923
+-City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh & Positive Feedback From Users - other.1 :  0.9903489084418569
+-City: People Talking About This - Natore, Rajshahi Division, Bangladesh & City: People Talking About This - Sydney, NSW, Australia :  1.0
+-City: People Talking About This - Natore, Rajshahi Division, Bangladesh & City: People Talking About This - Tangail, Dhaka Division, Bangladesh :  1.0
+-City: People Talking About This - Natore, Rajshahi Division, Bangladesh & City: People Talking About This - Thakurgaon, Rangpur Division, Bangladesh :  1.0
+-City: People Talking About This - Natore, Rajshahi Division, Bangladesh & Language: People Talking About This - bn_IN :  1.0
+-City: People Talking About This - Saidpur, Rajshahi Division, Bangladesh & City: People Talking About This - Satkhira, Khulna Division, Bangladesh :  1.0
+-City: People Talking About This - Satkhira, Khulna Division, Bangladesh & City: People Talking About This - Sherpur, Dhaka Division, Bangladesh :  1.0
+-City: People Talking About This - Satkhira, Khulna Division, Bangladesh & City: People Talking About This - Sylhet, Sylhet Division, Bangladesh :  1.0
+-City: People Talking About This - Satkhira, Khulna Division, Bangladesh & Language: People Talking About This - bn_IN :  1.0
+-Language: People Talking About This - en_GB & Language: People Talking About This - en_US :  0.9997176337653719
+-Language: People Talking About This - en_GB & Positive Feedback From Users - comment :  0.9974558262664608
+-Language: People Talking About This - en_GB & Positive Feedback From Users - like :  0.9988706945228685
+-Language: People Talking About This - en_GB & Positive Feedback From Users - other :  0.9932241671372106
+-Language: People Talking About This - en_GB & Positive Feedback From Users - comment.1 :  0.998304604601524
+-Language: People Talking About This - en_GB & Positive Feedback From Users - like.1 :  0.9966120835686053
+-Language: People Talking About This - en_GB & Positive Feedback From Users - other.1 :  0.9946343237631751
+-Language: People Talking About This - en_US & Positive Feedback From Users - comment :  0.9977375536626355
+-Language: People Talking About This - en_US & Positive Feedback From Users - like :  0.9985880093204392
+-Language: People Talking About This - en_US & Positive Feedback From Users - other :  0.9946343237631751
+-Language: People Talking About This - en_US & Positive Feedback From Users - comment.1 :  0.9985865717317342
+-Language: People Talking About This - en_US & Positive Feedback From Users - like.1 :  0.9957639482081078
+-Language: People Talking About This - en_US & Positive Feedback From Users - other.1 :  0.996045197740113
+-Negative feedback by type - hide_all_clicks & Negative Feedback From Users - hide_all_clicks :  1.0
+-Positive Feedback From Users - comment & Positive Feedback From Users - comment.1 :  0.9987759277363408
+-Positive Feedback From Users - other & Positive Feedback From Users - other.1 :  0.9961820403176542

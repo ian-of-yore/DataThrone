@@ -1,0 +1,32 @@
+Strong Positive Correlation Between
+-Post Total Reach & Post Total Impressions :  0.9816217200275982
+-Post Total Reach & Post Organic Impressions :  0.981621720490592
+-Post Total Reach & Engaged Users :  0.8828793558233597
+-Post Total Reach & Matched Audience Targeting Consumers on Post :  0.821405927448773
+-Post Total Reach & Post Impressions by people who have liked your Page :  0.9100634163398652
+-Post Total Reach & Post reach by people who like your Page :  0.8889392141639457
+-Post Total Reach & People who have liked your Page and engaged with your post :  0.8828350606460359
+-Post Total Impressions & Post Organic Impressions :  0.9999999979980205
+-Post Total Impressions & Engaged Users :  0.8725403240665159
+-Post Total Impressions & Matched Audience Targeting Consumers on Post :  0.8138505613690098
+-Post Total Impressions & Post Impressions by people who have liked your Page :  0.9376929476028965
+-Post Total Impressions & Post reach by people who like your Page :  0.8626862682814148
+-Post Total Impressions & People who have liked your Page and engaged with your post :  0.8718785339297416
+-Post Organic Impressions & Engaged Users :  0.8725407386098009
+-Post Organic Impressions & Matched Audience Targeting Consumers on Post :  0.8138501302323943
+-Post Organic Impressions & Post Impressions by people who have liked your Page :  0.9376951075194084
+-Post Organic Impressions & Post reach by people who like your Page :  0.8626894587732465
+-Post Organic Impressions & People who have liked your Page and engaged with your post :  0.8718791324653149
+-Engaged Users & Matched Audience Targeting Consumers on Post :  0.9799442788991811
+-Engaged Users & Matched Audience Targeting Consumptions on Post :  0.9549110019019513
+-Engaged Users & Post Impressions by people who have liked your Page :  0.8088329053418416
+-Engaged Users & People who have liked your Page and engaged with your post :  0.9674757944017304
+-Matched Audience Targeting Consumers on Post & Matched Audience Targeting Consumptions on Post :  0.984571593252576
+-Matched Audience Targeting Consumers on Post & People who have liked your Page and engaged with your post :  0.94074355267206
+-Matched Audience Targeting Consumptions on Post & People who have liked your Page and engaged with your post :  0.9038274421407183
+-Negative Feedback from Users & Negative Feedback :  0.9626138658439825
+-Post Impressions by people who have liked your Page & Post reach by people who like your Page :  0.9484247710920466
+-Post Impressions by people who have liked your Page & People who have liked your Page and engaged with your post :  0.8732997741583723
+-Post reach by people who like your Page & People who have liked your Page and engaged with your post :  0.8708567314747553
+-Organic views to 95% & Organic views to 95%.1 :  0.9983627496905074
+-Organic Video Views & Organic Video Views.1 :  0.9948395455551684

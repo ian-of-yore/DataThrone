@@ -1,0 +1,58 @@
+Strong/Moderate Negative Correlation Between
+-Page Engaged Users & Country: People Talking About This - CA :  -0.8743499734572333
+-Viral Reach & Country: People Talking About This - CA :  -0.9001957159966595
+-Viral impressions & Country: People Talking About This - CA :  -0.9001957159966595
+-Viral Reach Of Page Posts & Country: People Talking About This - CA :  -0.9001957159966595
+-Viral Impressions Of Your Posts & Country: People Talking About This - CA :  -0.9001957159966595
+-Total Consumers & Country: People Talking About This - CA :  -0.8567080002480286
+-Page Consumptions & Country: People Talking About This - CA :  -0.8828006296972072
+-Total Frequency Distribution - 1 & City: People Talking About This - Satkhira, Khulna Division, Bangladesh :  -0.8660254037844387
+-Total Frequency Distribution - 4 & Country: People Talking About This - CA :  -0.8828006296972072
+-Total Frequency Distribution - 5 & Country: People Talking About This - CA :  -0.9004499726649119
+-Total Frequency Distribution - 6-10 & Country: People Talking About This - CA :  -0.9001957159966595
+-Total Frequency Distribution - 11-20 & Country: People Talking About This - CA :  -0.9001957159966595
+-Total Frequency Distribution - 21+ & Country: People Talking About This - CA :  -0.9001957159966595
+-Page Posts Frequency Distribution - 1 & City: People Talking About This - Satkhira, Khulna Division, Bangladesh :  -0.8660254037844387
+-Page Posts Frequency Distribution - 4 & Country: People Talking About This - CA :  -0.8828006296972072
+-Page Posts Frequency Distribution - 5 & Country: People Talking About This - CA :  -0.9001957159966595
+-Page Posts Frequency Distribution - 6-10 & Country: People Talking About This - CA :  -0.9001957159966595
+-Page Posts Frequency Distribution - 11-20 & Country: People Talking About This - CA :  -0.9001957159966595
+-Page Posts Frequency Distribution - 21+ & Country: People Talking About This - CA :  -0.9001957159966595
+-Talking About This By Story Type - fan & Country: People Talking About This - CA :  -0.9088932591463857
+-Talking About This By Story Type - other & Country: People Talking About This - CA :  -0.8873999730610727
+-Talking About This By Story Type - page post & Country: People Talking About This - CA :  -0.9096956937248803
+-Page Stories By Story Type - fan & Country: People Talking About This - CA :  -0.9088932591463857
+-Page Stories By Story Type - other & Country: People Talking About This - CA :  -0.9001957159966595
+-Page Stories By Story Type - page post & Country: People Talking About This - CA :  -0.8658946112770852
+-Page Consumptions By Type - other clicks & Country: People Talking About This - CA :  -0.8828006296972072
+-Demographics: People Talking About This - F.13-17 & Country: People Talking About This - CA :  -0.9074085798567054
+-Demographics: People Talking About This - F.18-24 & Country: People Talking About This - CA :  -0.9001957159966595
+-Demographics: People Talking About This - F.65+ & Country: People Talking About This - CA :  -0.9206531904876194
+-Demographics: People Talking About This - M.18-24 & Country: People Talking About This - CA :  -0.8914981728469333
+-Demographics: People Talking About This - M.35-44 & City: People Talking About This - Satkhira, Khulna Division, Bangladesh :  -1.0
+-Demographics: People Talking About This - M.45-54 & City: People Talking About This - Satkhira, Khulna Division, Bangladesh :  -0.8660254037844387
+-Country: People Talking About This - BD & Country: People Talking About This - CA :  -0.891749972929019
+-Country: People Talking About This - CA & Country: People Talking About This - DE :  -0.8740474523097915
+-Country: People Talking About This - CA & City: People Talking About This - Barisal, Barisal Division, Bangladesh :  -0.8767976202387718
+-Country: People Talking About This - CA & City: People Talking About This - Dhaka, Dhaka Division, Bangladesh :  -0.8914981728469333
+-Country: People Talking About This - CA & City: People Talking About This - Dinajpur, Rangpur Division, Bangladesh :  -0.8613810308222156
+-Country: People Talking About This - CA & City: People Talking About This - Faridpur, Dhaka Division, Bangladesh :  -0.9028450369855279
+-Country: People Talking About This - CA & City: People Talking About This - Gazipur, Dhaka Division, Bangladesh :  -0.8698845219413206
+-Country: People Talking About This - CA & City: People Talking About This - Ishurdi, Rajshahi Division, Bangladesh :  -0.8547043234472846
+-Country: People Talking About This - CA & City: People Talking About This - Jaipur Hat, Rajshahi Division, Bangladesh :  -0.8962424681719565
+-Country: People Talking About This - CA & City: People Talking About This - Lalmonirhat, Rangpur Division, Bangladesh :  -0.9573019884835983
+-Country: People Talking About This - CA & City: People Talking About This - Narayanganj, Dhaka Division, Bangladesh :  -0.9136173774921458
+-Country: People Talking About This - CA & City: People Talking About This - Narsingdi, Dhaka Division, Bangladesh :  -0.90192952829098
+-Country: People Talking About This - CA & City: People Talking About This - Sherpur, Dhaka Division, Bangladesh :  -0.9509760885648955
+-Country: People Talking About This - CA & Language: People Talking About This - en_GB :  -0.8914981728469333
+-Country: People Talking About This - CA & Language: People Talking About This - en_US :  -0.891749972929019
+-Country: People Talking About This - CA & Positive Feedback From Users - comment :  -0.8937720843075995
+-Country: People Talking About This - CA & Positive Feedback From Users - like :  -0.8828006296972072
+-Country: People Talking About This - CA & Positive Feedback From Users - link :  -0.9104759903890512
+-Country: People Talking About This - CA & Positive Feedback From Users - other :  -0.9088932591463857
+-Country: People Talking About This - CA & Positive Feedback From Users - comment.1 :  -0.8973683385737523
+-Country: People Talking About This - CA & Positive Feedback From Users - like.1 :  -0.9001957159966595
+-Country: People Talking About This - CA & Positive Feedback From Users - other.1 :  -0.9047999725328584
+-City: People Talking About This - Faridpur, Dhaka Division, Bangladesh & City: People Talking About This - Jamalpur Sadar Upazila, Dhaka Division, Bangladesh :  -1.0
+-City: People Talking About This - Faridpur, Dhaka Division, Bangladesh & City: People Talking About This - Natore, Rajshahi Division, Bangladesh :  -1.0
+-City: People Talking About This - Ishurdi, Rajshahi Division, Bangladesh & City: People Talking About This - Jhenida, Khulna Division, Bangladesh :  -1.0
